@@ -1,2 +1,4 @@
-package com.huseyin.springsecurityjwt.dto;public class UserResponse {
+package com.huseyin.springsecurityjwt.dto;
+
+public class UserResponse {
 }
